@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name_of_dish: MyString
+  description: MyString
+  country: MyString
+  img: MyString
+  user: one
+
+two:
+  name_of_dish: MyString
+  description: MyString
+  country: MyString
+  img: MyString
+  user: two
